@@ -4,6 +4,10 @@ import { welcomeCards } from '~/constants/cards'
 definePageMeta({
   layout: 'welcome',
 })
+
+useSeoMeta({
+  title: 'Millhaven',
+})
 </script>
 
 <template>
@@ -12,7 +16,7 @@ definePageMeta({
     <h1
       class="bg-[linear-gradient(0deg,rgba(0,0,0,0.2),rgba(0,0,0,0.2)),linear-gradient(90deg,#826EC4_0%,#94C9A9_50%,#028A9C_100%)] bg-clip-text font-josefin text-[40px] font-semibold leading-[40px] text-transparent"
     >
-      App Name
+      Millhaven
     </h1>
     <p class="mx-auto mt-2 max-w-[350px] text-center font-dosis text-[16px] font-semibold leading-5 text-[#2A2B2B]">
       Here to help you navigate what's next
