@@ -13,6 +13,7 @@
         v-if="image"
         :src="image"
         alt=""
+        quality="90"
         class="size-full object-cover"
       />
       <div

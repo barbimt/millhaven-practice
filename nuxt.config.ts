@@ -5,9 +5,6 @@ export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
   devtools: { enabled: true },
   modules: ['@nuxt/image'],
-  image: {
-    quality: 90,
-  },
   app: {
     head: {
       title: 'Millhaven',
