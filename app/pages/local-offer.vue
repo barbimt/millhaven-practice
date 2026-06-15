@@ -33,6 +33,7 @@
           :title="category.title"
           :color="category.color"
           :image="category.image"
+          :image-alt="category.imageAlt"
           :to="category.to"
         />
       </li>
