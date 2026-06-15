@@ -1,0 +1,16 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-brand-purple: #8e82c9;
+  --color-brand-teal: #3b8d99;
+  --color-brand-violet: #7a67be;
+  --color-brand-mint: #5ba89a;
+  --color-brand-footer: #028b9c;
+  --max-width-mobile: 390px;
+  --font-josefin: 'Josefin Sans', ui-sans-serif, system-ui, sans-serif;
+  --font-dosis: 'Dosis', ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+  background-color: #f3f4f6;
+}
