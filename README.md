@@ -1,6 +1,6 @@
-# FocusGov — Practice Project
+# Millhaven — Practice Project
 
-Nuxt 4 mobile-first practice app for a local services experience. It includes a welcome screen with feature cards and a **Your Local Offer** page with category cards.
+Nuxt 4 mobile-first practice app for a local services experience in **Millhaven**. It includes a welcome screen with feature cards and a **Your Local Offer** page with category cards.
 
 ## Tech stack
 
